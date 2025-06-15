@@ -22,3 +22,4 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+.dist .vscode client client/.vscode client/.vscode/settings.json client/node_modules client/public client/src client/src/assets client/src/components client/src/pages client/src/pages/CareerLevels.jsx client/src/pages/Home.jsx client/src/App.css client/src/App.jsx client/src/index.css client/src/main.jsx client/.gitignore client/eslint.config.js client/index.html client/package-lock.json client/package.json client/postcss.config.js client/README.md client/tailwind.config.js client/vite.config.js server server/config server/controllers server/models server/node_modules server/routes server/.env server/index.js server/package-lock.json server/package.json README.md
